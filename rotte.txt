@@ -1,0 +1,5 @@
+http://localhost:8888/biglietto POST - per ottenere un biglietto
+http://localhost:8888/biglietto/:id PUT - per inserire l'uscita
+http://localhost:8888/biglietto/:id GET - per stampare il prezzo
+http://localhost:8888/biglietto/:id DELETE - eliminare il biglietto
+http://localhost:8888/biglietti GET - per visualizzare tutti i biglietti
